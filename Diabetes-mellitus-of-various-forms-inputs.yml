@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/diabetes---secondary.py
+inputModule3:
+  class: File
+  path: python/diabetes-mellitus-of-various-forms---secondary.py
+inputModule4:
+  class: File
+  path: python/diabetes-mellitus-of-various-forms-ketoacidosis---secondary.py
+inputModule5:
+  class: File
+  path: python/renal-diabetes-mellitus-of-various-forms---secondary.py
+inputModule6:
+  class: File
+  path: python/ophthalmic-diabetes-mellitus-of-various-forms---secondary.py
+inputModule7:
+  class: File
+  path: python/neurological-diabetes-mellitus-of-various-forms---secondary.py
+inputModule8:
+  class: File
+  path: python/diabetes-mellitus-of-various-forms-circulatory---secondary.py
+inputModule9:
+  class: File
+  path: python/diabetes-mellitus-of-various-forms-unspecified---secondary.py
+inputModule10:
+  class: File
+  path: python/multiple-diabetes-mellitus-of-various-forms---secondary.py
+inputModule11:
+  class: File
+  path: python/diabetes-mellitus-of-various-forms-complication---secondary.py
+inputModule12:
+  class: File
+  path: python/diabetes-mellitus-of-various-forms-malnutritionrelated---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
